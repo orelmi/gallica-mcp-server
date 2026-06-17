@@ -135,6 +135,13 @@ tests/
   test_client.py
 ```
 
+## Documentation
+
+- [`docs/outils.md`](docs/outils.md) — référence détaillée de chaque outil
+  (paramètres, exemples d'entrée/sortie).
+- [`docs/exemple-genealogie.md`](docs/exemple-genealogie.md) — guide pas-à-pas :
+  retrouver un patronyme dans la presse ancienne.
+
 ## Notes & limites
 
 - API **non officielles dans le détail** : Gallica fait parfois évoluer ses
